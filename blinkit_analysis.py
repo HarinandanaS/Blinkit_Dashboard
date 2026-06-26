@@ -1,0 +1,12 @@
+import pandas as pd
+df = pd.read_csv('blinkit_data.csv')
+print(df.head())
+print(df.shape)
+print(df.columns)
+print("Total Sales:",df['Sales'].sum())
+print("Average Rating:",df['Rating'].mean())
+print("Total Products:",df['Product'].count())
+print("Highest Sales:",df['Sales'].max())
+print("Total Revenue:",df['Revenue'].sum())
+print("Minimum Rating:",df['Rating'].min())
+print(df.columns.tolist())

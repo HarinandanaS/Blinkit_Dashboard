@@ -1,0 +1,16 @@
+Product,Category,Sales,Rating,Quantity,Revenue
+Rice,Grocery,500,4.5,20,10000
+Milk,Dairy,250,4.3,30,7500
+Bread,Bakery,150,4.2,25,3750
+Eggs,Dairy,300,4.7,40,12000
+Apple,Fruits,400,4.6,35,14000
+Banana,Fruits,200,4.4,50,10000
+Potato,Vegetables,180,4.1,45,8100
+Tomato,Vegetables,220,4.3,40,8800
+Chicken,Meat,650,4.8,15,9750
+Fish,Seafood,700,4.7,12,8400
+Juice,Beverages,350,4.5,28,9800
+Soft Drink,Beverages,280,4.2,32,8960
+Biscuits,Snacks,190,4.0,38,7220
+Chips,Snacks,210,4.1,36,7560
+Ice Cream,Frozen,450,4.6,18,8100
